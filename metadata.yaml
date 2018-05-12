@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '6758'
     url: http://www.gutenberg.org/2009/agents/6758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25962#World-s-War-Events-Vol.-I
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-07-04'
 gutenberg_type: Text
