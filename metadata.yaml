@@ -1,0 +1,31 @@
+_repo: World-s-War-Events-Vol.-I_25962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Reynolds, Francis J. (Francis Joseph)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '4145'
+    url: http://www.gutenberg.org/2009/agents/4145
+  - agent_name: Churchill, Allen L. (Allen Leon)
+    birthdate: 1873
+    gutenberg_agent_id: '6758'
+    url: http://www.gutenberg.org/2009/agents/6758
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: World's War Events, Vol. I
+url: http://www.gutenberg.org/ebooks/25962
